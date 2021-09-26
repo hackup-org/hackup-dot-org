@@ -1,4 +1,4 @@
-# hackup-dot-org
-Official repo of hackup.org
+# imicodingclub-dot-github-dot-io
+Official repo of imicodingclub.github.io
 
 By MERCODE
